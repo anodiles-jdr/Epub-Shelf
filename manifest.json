@@ -1,0 +1,11 @@
+{
+  "id": "epub-shelf",
+  "name": "Epub Shelf",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Monitors folders for epub files and auto-creates Obsidian notes with metadata.",
+  "author": "Giboin",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": true
+}
